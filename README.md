@@ -39,7 +39,7 @@ web site</a>:
 | ------------- | ------------- |
 | Clone this project | ```git clone https://github.com/carlosehernandezr/ExData_Plotting1.git```  |
 | Download the dataset and unzip the file on the project folder  | https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption |
-| Run the script of the plot that you want |
+| Run the script of the plot that you want | ```plot1.R``` - ```plot2.R``` - ```plot3.R``` - ```plot4.R```|
 
 ## Making Plots
 
@@ -67,7 +67,7 @@ The four plots that you can construct are shown below.
 
 ### Plot 4
 
-![plot 4](plot1.png) 
+![plot 4](plot4.png) 
 
 ## Dependecies
 
